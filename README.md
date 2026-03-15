@@ -18,10 +18,5 @@ A lightweight, high-performance weather application that provides real-time data
 2. **Select Metrics:** Choose which weather variables you want to visualize.
 3. **Fetch:** The app checks the local cache first; if expired or missing, it fetches fresh data from the API and displays the charts.
 
-## 🔧 Setup & Installation
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/weather-forecast-javafx.git`
-2. Ensure you have **JDK 17+** and **JavaFX 17+** installed.
-3. Run the `Launcher.java` file.
-
 ---
 *Created as part of a Java Programming Examination project.*
